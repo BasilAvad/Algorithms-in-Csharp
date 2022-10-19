@@ -1,0 +1,7 @@
+D:\Repos\IFEL\ForLoop\bin\Debug\ForLoop.exe.config
+D:\Repos\IFEL\ForLoop\bin\Debug\ForLoop.exe
+D:\Repos\IFEL\ForLoop\bin\Debug\ForLoop.pdb
+D:\Repos\IFEL\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\ForLoop\obj\Debug\ForLoop.exe
+D:\Repos\IFEL\ForLoop\obj\Debug\ForLoop.pdb
+D:\Repos\IFEL\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache

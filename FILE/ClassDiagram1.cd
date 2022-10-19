@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FILE.FILE04">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FILE04.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FILE.FILE05">
+    <Position X="0.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>FILE05.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FILE.FilePath" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FILE.StreamReader01">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StreamReader01.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FILE.StreamWriter01" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StreamWriter01.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FILE.StreamWriter02">
+    <Position X="4" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StreamWriter02.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

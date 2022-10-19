@@ -1,0 +1,14 @@
+D:\Repos\IFEL\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\Repos\IFEL\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\Repos\IFEL\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\Repos\IFEL\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\Repos\IFEL\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+D:\Repos\IFEL\MatrixCalculator\obj\Debug\MatrixCalculator.csprojAssemblyReference.cache
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\obj\Debug\MatrixCalculator.csprojAssemblyReference.cache
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\Repos\AlgorithmİnCSharp\MatrixCalculator\obj\Debug\MatrixCalculator.pdb

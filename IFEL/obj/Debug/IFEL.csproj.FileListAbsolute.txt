@@ -1,0 +1,7 @@
+D:\Repos\IFEL\IFEL\bin\Debug\IFEL.exe.config
+D:\Repos\IFEL\IFEL\bin\Debug\IFEL.exe
+D:\Repos\IFEL\IFEL\bin\Debug\IFEL.pdb
+D:\Repos\IFEL\IFEL\obj\Debug\IFEL.csprojAssemblyReference.cache
+D:\Repos\IFEL\IFEL\obj\Debug\IFEL.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\IFEL\obj\Debug\IFEL.exe
+D:\Repos\IFEL\IFEL\obj\Debug\IFEL.pdb

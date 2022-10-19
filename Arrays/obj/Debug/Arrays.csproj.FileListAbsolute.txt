@@ -1,0 +1,11 @@
+D:\Repos\IFEL\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\Repos\IFEL\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\Arrays\bin\Debug\Arrays.exe.config
+D:\Repos\IFEL\Arrays\bin\Debug\Arrays.exe
+D:\Repos\IFEL\Arrays\bin\Debug\Arrays.pdb
+D:\Repos\IFEL\Arrays\bin\Debug\ForLoop.exe
+D:\Repos\IFEL\Arrays\bin\Debug\ForLoop.pdb
+D:\Repos\IFEL\Arrays\bin\Debug\ForLoop.exe.config
+D:\Repos\IFEL\Arrays\obj\Debug\Arrays.csproj.CopyComplete
+D:\Repos\IFEL\Arrays\obj\Debug\Arrays.exe
+D:\Repos\IFEL\Arrays\obj\Debug\Arrays.pdb

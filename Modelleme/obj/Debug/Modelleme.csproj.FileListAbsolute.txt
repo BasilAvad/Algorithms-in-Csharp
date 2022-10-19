@@ -1,0 +1,14 @@
+D:\Repos\IFEL\Modelleme\bin\Debug\Modelleme.exe.config
+D:\Repos\IFEL\Modelleme\bin\Debug\Modelleme.exe
+D:\Repos\IFEL\Modelleme\bin\Debug\Modelleme.pdb
+D:\Repos\IFEL\Modelleme\obj\Debug\Modelleme.csprojAssemblyReference.cache
+D:\Repos\IFEL\Modelleme\obj\Debug\Modelleme.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\Modelleme\obj\Debug\Modelleme.exe
+D:\Repos\IFEL\Modelleme\obj\Debug\Modelleme.pdb
+D:\Repos\AlgorithmİnCSharp\Modelleme\bin\Debug\Modelleme.exe.config
+D:\Repos\AlgorithmİnCSharp\Modelleme\bin\Debug\Modelleme.exe
+D:\Repos\AlgorithmİnCSharp\Modelleme\bin\Debug\Modelleme.pdb
+D:\Repos\AlgorithmİnCSharp\Modelleme\obj\Debug\Modelleme.csprojAssemblyReference.cache
+D:\Repos\AlgorithmİnCSharp\Modelleme\obj\Debug\Modelleme.csproj.CoreCompileInputs.cache
+D:\Repos\AlgorithmİnCSharp\Modelleme\obj\Debug\Modelleme.exe
+D:\Repos\AlgorithmİnCSharp\Modelleme\obj\Debug\Modelleme.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IFEL.IFEL03">
+    <Position X="4.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>IFEL03.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IFEL.SWTC">
+    <Position X="0.75" Y="1.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="IFEL.SWTC.Colors" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SWTC.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SWTC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IFEL.SwtCa01">
+    <Position X="8" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SwtCa01.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IFEL.Ax2_BX_C">
+    <Position X="5.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ax2_BX_C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

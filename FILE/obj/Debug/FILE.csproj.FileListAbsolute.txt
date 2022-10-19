@@ -1,0 +1,7 @@
+D:\Repos\IFEL\FILE\bin\Debug\FILE.exe.config
+D:\Repos\IFEL\FILE\bin\Debug\FILE.exe
+D:\Repos\IFEL\FILE\bin\Debug\FILE.pdb
+D:\Repos\IFEL\FILE\obj\Debug\FILE.csprojAssemblyReference.cache
+D:\Repos\IFEL\FILE\obj\Debug\FILE.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\FILE\obj\Debug\FILE.exe
+D:\Repos\IFEL\FILE\obj\Debug\FILE.pdb

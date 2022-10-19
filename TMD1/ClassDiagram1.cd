@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TMD1.Number">
+    <Position X="7" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAgCEAAAAAAIAAAAAEAAAAAAAAAAAAAAAAoAA=</HashCode>
+      <FileName>Number.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TMD1.Circle">
+    <Position X="4.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

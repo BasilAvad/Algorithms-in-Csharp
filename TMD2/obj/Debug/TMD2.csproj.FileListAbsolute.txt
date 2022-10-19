@@ -1,0 +1,7 @@
+D:\Repos\IFEL\TMD2\bin\Debug\TMD2.exe.config
+D:\Repos\IFEL\TMD2\bin\Debug\TMD2.exe
+D:\Repos\IFEL\TMD2\bin\Debug\TMD2.pdb
+D:\Repos\IFEL\TMD2\obj\Debug\TMD2.csprojAssemblyReference.cache
+D:\Repos\IFEL\TMD2\obj\Debug\TMD2.csproj.CoreCompileInputs.cache
+D:\Repos\IFEL\TMD2\obj\Debug\TMD2.exe
+D:\Repos\IFEL\TMD2\obj\Debug\TMD2.pdb
